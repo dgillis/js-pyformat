@@ -1,6 +1,6 @@
 # js-pyformat
 
-A way to perform type assertions with detailed error messages in development but do nothing in production.
+Python-style string formatting in Javascript.
 
 ## Install
 
