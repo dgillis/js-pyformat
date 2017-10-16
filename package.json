@@ -1,11 +1,19 @@
 {
-  "name": "pyformat",
-  "version": "0.1.0",
-  "description": "",
-  "main": "pyformat.js",
+  "name": "js-pyformat",
+  "version": "0.0.1",
+  "description": "Python style string formatting in Javascript.",
+  "keywords": [
+    "formatting",
+    "python",
+    "strings"
+  ],
+  "license": "MIT",
+  "author": "Duncan Gillis <d@duncangillis.com>",
+  "files": [
+    "pyformat.js"
+  ],
+  "repository": "https://github.com/dgillis/js-pyformat",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "main": "pyformat.js"
 }
